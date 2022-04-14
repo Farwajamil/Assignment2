@@ -1,0 +1,27 @@
+.stylelog{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 95%;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #6c197d;
+    padding: 0 2rem;
+}
+.stylelog h1
+{
+    color:#fff;
+}
+.stylelog button
+{
+    font: inherit;
+    background: #dd0db0;
+    border: 1px solid #dd0db0;
+    padding: 0.5rem 1.5rem;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+    border-radius: 20px;
+}
